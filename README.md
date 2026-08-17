@@ -1,87 +1,33 @@
-# 🚀 João Paulo Lomba  
-**`AI x Healthcare Data Specialist | Full Stack Developer | Vibe Coding | Web3 Builder`**
+### Ola, sou Joao Paulo Lomba 👋
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Vibe%20Coding-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Web3-FF6B00?style=for-the-badge&logo=web3dotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data%20Annotation-00C7B7?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-</p>
+AI Engineer Jr. & Full Stack Developer — construo agentes de IA e automacoes
+que eliminam trabalho manual, na intersecao entre desenvolvimento full stack,
+engenharia de IA e orquestracao de processos.
 
----
+**Agora:** arquitetando integracoes multi-sistema (Pipefy, n8n, Asaas,
+WhatsApp) na Escalys — hoje sustentando 11 pipes e 4 bases de dados — e
+desenvolvendo agentes em Python para classificacao e extracao de dados de
+documentos com IA.
 
-## ✍️ Sobre Mim
-Sou desenvolvedor **Full Stack** com foco em **IA aplicada, automação e sistemas escaláveis**, combinando desenvolvimento back-end e front-end com **curadoria de dados e treinamento de modelos**.
+- 🔭 Em finalizacao: integracao WhatsApp-API-n8n para loja virtual (pedido -> validacao -> notificacao, ponta a ponta)
+- 🧠 Stack de IA: LangChain, OpenAI API, RAG (pgvector), Pipefy, agentes com tool-calling
+- 🛠️ Backend/dados: Python, FastAPI, Node.js, PostgreSQL, Redis
+- 🌐 Portfolio: [portfolio-repo-beta.vercel.app](https://portfolio-repo-beta.vercel.app)
+- 💼 [LinkedIn](https://www.linkedin.com/in/joaolombadev/) · ✉️ joaolombadev@gmail.com
 
-Tenho interesse em resolver problemas do mundo real — especialmente em **healthcare, workflows administrativos e operações complexas**, onde dados bem estruturados fazem toda diferença no desempenho de sistemas de IA.
+#### Projetos em destaque
 
-Atuo com mentalidade de **vibe coding ⚡**: construindo rápido, iterando constantemente e transformando ideias em soluções funcionais.
+| Projeto | Descricao | Stack |
+|---|---|---|
+| [assistente-ia-atendimento](https://github.com/joaolombabr/assistente-ia-atendimento) | API de atendimento automatizado com IA, integrada a WhatsApp e Telegram | FastAPI · OpenAI · WhatsApp API |
+| [api-tarefas-spring](https://github.com/joaolombabr/api-tarefas-spring) | API REST de tarefas com DTOs, validacoes e endpoints de estatisticas | Java 17 · Spring Boot 3.2 |
+| [aws-automation-scripts](https://github.com/joaolombabr/aws-automation-scripts) | Scripts de automacao de infraestrutura AWS | AWS · Bash/PowerShell |
 
-Também exploro o ecossistema **Web3**, com foco em infraestrutura descentralizada, automação e integração com aplicações reais.
+Projetos de cliente (automacao Pipefy na Escalys, automacao de e-mail em n8n)
+nao tem repositorio publico — os case studies completos estao no
+[portfolio](https://portfolio-repo-beta.vercel.app).
 
----
+#### Stack
 
-## 🧠 AI, Data & Healthcare Focus
-- Data Annotation para treinamento de modelos de IA  
-- Curadoria de dados complexos (contexto administrativo e operacional)  
-- Estruturação de workflows e processos  
-- Análise de cenários com baixa disponibilidade de dados  
-- Interesse em:
-  - Patient care coordination  
-  - Administrative workflows  
-  - Data quality for AI systems  
-
----
-
-## 🛠️ Tech Stack & Skills
-
-### Full Stack
-- Desenvolvimento de aplicações completas (front-end + back-end)  
-- Integração de APIs e automação de fluxos  
-
-### Back-end & Infra
-- Node.js  
-- Go  
-- Python  
-
-### Front-end
-- JavaScript  
-- Interfaces web e integração com APIs  
-
-### Cloud & DevOps
-- AWS (Lambda, S3, DynamoDB, EC2)  
-- Docker  
-- CI/CD  
-- Bash / PowerShell  
-
-### AI & Data
-- Data Cleaning & Structuring  
-- Prompt Engineering  
-- AI Workflows & Automation  
-- Trust & Safety  
-
-### Web3
-- Conceitos de DePIN e infraestrutura descentralizada  
-- Integração com APIs  
-- Automação de processos  
-
----
-
-## ⚡ Diferenciais
-- Alta capacidade analítica e adaptação a instruções dinâmicas  
-- Experiência com automação e eficiência operacional  
-- Forte leitura e escrita em inglês técnico  
-- Mentalidade builder (testar → ajustar → escalar)  
-- Perfil Full Stack com visão de produto + dados  
-
----
-
-## 🎯 Objetivo
-Atuar como **AI Data Specialist / AI Trainer**, contribuindo com:
-
-- Dados de alta qualidade para treinamento de modelos  
-- Melhoria de ferramentas de anotação  
-- Construção de sistemas inteligentes aplicados a problemas reais  
-
-Com foco em **healthcare, operações administrativas e automação com IA**.
+`Python` `FastAPI` `Node.js` `TypeScript` `React` `LangChain` `n8n` `Pipefy`
+`PostgreSQL` `Redis` `Docker` `AWS`
